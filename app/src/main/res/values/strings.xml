@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="action_settings">action_settings</string>
+    <string name="about">about</string>
+    <string name="title_about_activity">About Page</string>
+    <string name="email">Email</string>
+    <string name="ferizcoagni_gmail_com">ferizcoagni@gmail.com</string>
+    <string name="mahasiswa_sistem_informasi">MAHASISWA SISTEM INFORMASI</string>
+    <string name="nama">Nama</string>
+    <string name="ferizco_agni">Ferizco Agni</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="developer">Developer</string>
 </resources>
